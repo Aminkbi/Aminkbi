@@ -9,7 +9,7 @@ I'm a passionate React developer with a keen interest in databases and backend d
 - **Others**: Git
 
 ## Find Me Online
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-amin-khanbabaei-805365221/)]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-amin-khanbabaei-805365221/)
 - **Email**: aminkhanbaba51@example.com
 
 ## Let's Connect!
