@@ -10,7 +10,7 @@ I'm a passionate React developer with a keen interest in databases and backend d
 
 ## Find Me Online
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-amin-khanbabaei-805365221/)
-- **Email**: aminkhanbaba51@example.com
+- **Email**: aminkhanbaba51@gmail.com
 
 ## Let's Connect!
 I'm always open to exciting opportunities, collaborations, or just a friendly chat. Feel free to reach out to me through any of the channels above. Looking forward to connecting with you! 😊
