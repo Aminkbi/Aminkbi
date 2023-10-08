@@ -1,9 +1,9 @@
 # Hello there! 👋 I'm Amin Khanbabaei
 
 ## About Me
-I'm a passionate React developer with a keen interest in databases and backend development. I love building user-friendly and performant web applications that deliver a seamless user experience. My journey in the world of programming has been exciting and I'm constantly striving to learn and improve my skills.
+Self-taught React.js developer with a strong passion for learning and staying updated with new technologies. Proficient in React and quick to master new languages and frameworks.
 
-## Technologies I Love
+## Technologies I Work with
 - **Frontend**: React, Tailwind, Next.js
 - **Databases**: MongoDB, PostgreSQL
 - **Others**: Git
