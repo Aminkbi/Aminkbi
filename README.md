@@ -4,7 +4,8 @@
 Self-taught React.js developer with a strong passion for learning and staying updated with new technologies. Proficient in React and quick to master new languages and frameworks.
 
 ## Technologies I Work with
-- **Frontend**: React, Tailwind, Next.js
+- **Frontend**: React, Tailwind, Next.js, React Native
+- **Backend**: Golang;
 - **Databases**: MongoDB, PostgreSQL
 - **Others**: Git
 
