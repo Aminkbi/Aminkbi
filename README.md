@@ -1,11 +1,11 @@
 # Hello there! 👋 I'm Amin Khanbabaei
 
 ## About Me
-Self-taught React.js developer with a strong passion for learning and staying updated with new technologies. Proficient in React and quick to master new languages and frameworks.
+Passionate about designing distributed systems, developing back-end services, and theoretical stuff.
 
 ## Technologies I Work with
 - **Frontend**: React, Tailwind, Next.js, React Native
-- **Backend**: Golang;
+- **Backend**: Golang, Java;
 - **Databases**: MongoDB, PostgreSQL
 - **Others**: Git
 
